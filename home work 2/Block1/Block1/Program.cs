@@ -6,8 +6,7 @@ namespace Block1
 	{
 		static void Main(string[] args)
 		{
-			Double X, a, b;
-			Console.WriteLine("Начало программы");
+			double X, a, b;
 			Console.Write("Введите значене а: ");
 			a = Convert.ToDouble(Console.ReadLine());
 			Console.Write("Введите значене b: ");
